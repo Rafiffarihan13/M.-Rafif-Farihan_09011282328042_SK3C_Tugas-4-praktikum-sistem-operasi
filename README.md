@@ -1,7 +1,7 @@
-# Nama : M. Rafif Farihan
-# Nim : 09011282328042
-# Kelas : SK3C
-# Praktikum sistem operasi
+* Nama : M. Rafif Farihan
+* Nim : 09011282328042
+* Kelas : SK3C
+* Praktikum sistem operasi
 
 ## 1. Melihat Peralatan I/O dan Character Device dengan `iostat`
 Perintah `iostat` digunakan untuk melihat informasi mengenai peralatan **I/O** dan **character device** yang ada pada sistem komputer. Hasil dari perintah tersebut dapat dilihat pada gambar berikut:
