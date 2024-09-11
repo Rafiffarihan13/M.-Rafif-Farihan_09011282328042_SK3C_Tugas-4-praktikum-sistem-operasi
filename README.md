@@ -1,1 +1,4 @@
-# M.-Rafif-Farihan_09011282328042_SK3C_Tugas-4-praktikum-sistem-operasi
+# Nama : M. Rafif Farihan
+# Nim : 09011282328042
+# Kelas : SK3C
+# Praktikum sistem operasi
